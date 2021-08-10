@@ -97,7 +97,7 @@ body, html{
   padding: 20px 80px;
   font-size: 20px;
 }
-
+/* 
 @media(max-width:568px){
   .parallex_image1{
     background-attachment: scroll;
@@ -110,4 +110,4 @@ body, html{
   .parallex_image1{
     background-attachment: scroll;
   }
-}
+} */
